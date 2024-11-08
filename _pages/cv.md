@@ -25,5 +25,12 @@ Work experience
 * Postdoc Fellow, AMSS, CAS, Jul 2022 - present
   * Advisor: Yanlong Zhao (Professor, AMSS)
   
-
+Award and honors
+======
+* China Postdoctoral Innovation Talent Support Program (Top 1%), Jul 2023
+* Guozhi Xu Postdoctoral Research Award Foundation, Dec 2022
+* Primary Standard Fund of China Postdoctoral Science Foundation (Top 1%), Oct 2022
+* Special Prize of Presidential Scholarship of Chinese Academy of Sciences (Top 1%), Jul 2022
+* Posting paper award of the 5th China System Science Conference, May 2021
+* Outstanding graduate of Wuhan University, Jun 2017
   
