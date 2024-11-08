@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Academy of Mathematics and Systems Science, Chinese Academy of Science (AMSS,CAS), China, Sep 2017 – Jun 2022
+* Academy of Mathematics and Systems Science, Chinese Academy of Science (AMSS, CAS), China, Sep 2017 – Jun 2022
   * Ph.D. in System Theory
   * Supervisor: Ji-feng Zhang (Professor, AMSS; Fellow of IEEE, IFAC, CAA)
 * Wuhan University (WHU), Wuhan, China, Sep 2013 – Jun 2017
