@@ -1,11 +1,11 @@
 ---
-layout:"achieve"
+layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /Publications/
 author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
+redirect_from:
+  - /resume
+ 
 ---
 You can also find my articles on [Google Scholar](https://scholar.google.com.hk/citations?user=J2bouWoAAAAJ&hl=zh-en). Please drop me an email if you do not have access to any of them.
 
