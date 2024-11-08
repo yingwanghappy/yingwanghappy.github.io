@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Services"
-permalink: /aca-srv/
+permalink: /Academic Services/
 author_profile: true
 redirect_from:
   - /resume
