@@ -10,7 +10,7 @@ redirect_from:
 ## Journal Reviewer
 - IEEE Transactions on Automatic Control (TAC)
 - Automatica
-- System & Control Letters (SCL
+- System & Control Letters (SCL)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
 - Asian Journal of Control (AJC)
 - Applied Mathematics and Computation (AMC)
