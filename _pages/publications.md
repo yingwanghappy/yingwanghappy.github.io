@@ -9,12 +9,6 @@ redirect_from:
 ---
 You can also find my articles on [Google Scholar](https://scholar.google.com.hk/citations?user=J2bouWoAAAAJ&hl=zh-en). Please drop me an email if you do not have access to any of them.
 
-Preprint
-======
-#1. 
-#2. 
-
-
 
 Journals
 ======
