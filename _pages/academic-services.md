@@ -1,7 +1,10 @@
 ---
+layout: archive
 title: "Academic Services"
 permalink: /aca-srv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ## Journal Reviewer
