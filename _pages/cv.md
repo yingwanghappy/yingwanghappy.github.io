@@ -15,7 +15,7 @@ Education
   * Ph.D. in System Theory
   * Supervisor: Ji-Feng Zhang (Professor, AMSS; Fellow of IEEE, IFAC, CAA)
 * Wuhan University (WHU), Wuhan, China, Sep 2013 – Jun 2017
-  * B.E. in Mathmatics
+  * B.S. in Mathmatics
 
 
 Work experience
