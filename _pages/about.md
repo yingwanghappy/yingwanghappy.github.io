@@ -14,7 +14,7 @@ I am a Postdoc Fellow in the [Division of Decision and Control Systems](https://
 * Adaptive control
 * Consensus control
 * Quantized systems
-* Distributed systems
+* Multiagent systems
 * Event-trigger mechanism
 
 
