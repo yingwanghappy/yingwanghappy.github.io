@@ -12,7 +12,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com.hk/
 
 Preprint
 ======
-1. Tianning Han, Ying Wang and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://arxiv.org/abs/2412.05136), arXiv:2412.05136, 2024.
+1. Tianning Han, **Ying Wang** and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://arxiv.org/abs/2412.05136), arXiv:2412.05136, 2024.
 
 
    
