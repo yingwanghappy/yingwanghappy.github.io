@@ -14,7 +14,7 @@ Preprint
 ======
 1. **Ying Wang**, Jian Guo, Yanlong Zhao, Ji-feng Zhang,[Distributed estimation with quantized measurements and communication over markovian switching topologies](https://arxiv.org/abs/2412.10979),  arXiv:2412.10979, 2024.
 2. Tianning Han, **Ying Wang** and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://arxiv.org/abs/2412.05136), arXiv:2412.05136, 2024.
-3.  Chuiliu Kong, and **Ying Wang**/*, [Adaptive tracking control for non-periodic reference signals under quantized observations](https://arxiv.org/abs/2404.16282), 	arXiv:2404.16282, 2024.
+3.  Chuiliu Kong, and **Ying Wang**\*, [Adaptive tracking control for non-periodic reference signals under quantized observations](https://arxiv.org/abs/2404.16282), 	arXiv:2404.16282, 2024.
 
 
    
