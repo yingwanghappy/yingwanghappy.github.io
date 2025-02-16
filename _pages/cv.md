@@ -27,6 +27,7 @@ Work experience
   
 Award and honors
 ======
+* The Outstanding Doctoral Dissertation Award of the Chinese Association of Automation (Only 10 recipients per year), Dec 2024
 * China Postdoctoral Innovation Talent Support Program (Top 1%), Jul 2023
 * Guozhi Xu Postdoctoral Research Award Foundation, Dec 2022
 * Primary Standard Fund of China Postdoctoral Science Foundation (Top 1%), Oct 2022
