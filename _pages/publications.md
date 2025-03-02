@@ -14,6 +14,7 @@ Preprint
 ======
 1. **Ying Wang**, Jian Guo, Yanlong Zhao, Ji-feng Zhang,[Distributed estimation with quantized measurements and communication over markovian switching topologies](https://arxiv.org/abs/2412.10979),  arXiv:2412.10979, 2024.
 2. Tianning Han, **Ying Wang** and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://arxiv.org/abs/2412.05136), arXiv:2412.05136, 2024.
+3. Xingrui Liu, **Ying Wang** and Yanlong Zhao, [A unified recursive identification algorithm with quantized observations based on weighted least-squares type criteria](https://arxiv.org/abs/2502.20085), arXiv:2502.20085, 2025.
 
 
 
