@@ -12,10 +12,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com.hk/
 
 Preprint
 ======
-1. **Ying Wang**, Jian Guo, Yanlong Zhao, Ji-feng Zhang,[Distributed estimation with quantized measurements and communication over markovian switching topologies](https://arxiv.org/abs/2412.10979),  arXiv:2412.10979, 2024.
+1. **Ying Wang**, Jian Guo, Yanlong Zhao and Ji-feng Zhang, [Distributed estimation with quantized measurements and communication over markovian switching topologies](https://arxiv.org/abs/2412.10979),  arXiv:2412.10979, 2024.
 2. Tianning Han, **Ying Wang** and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://arxiv.org/abs/2412.05136), arXiv:2412.05136, 2024.
 3. Xingrui Liu, **Ying Wang** and Yanlong Zhao, [A unified recursive identification algorithm with quantized observations based on weighted least-squares type criteria](https://arxiv.org/abs/2502.20085), arXiv:2502.20085, 2025.
-
+4. Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-feng Zhang, [One-bit consensus of controllable linear multi-agent systems with communication noises](https://arxiv.org/abs/2503.10062), arXiv:2503.10062, 2025. 
 
 
    
@@ -27,7 +27,7 @@ Journals
 4. **Ying Wang**, Xin Li, Yanlong Zhao and Ji-Feng Zhang, [Threshold selection and resource allocation for quantized identification](https://link.springer.com/article/10.1007/s11424-024-3369-8), Journal of Systems Science and Complexity, 37(1), 204-229, 2024.
 5. **Ying Wang**, Yanlong Zhao and Ji-Feng Zhang, [Distributed recursive projection identification with binary-valued observations](https://link.springer.com/article/10.1007/s11424-021-1267-x), Journal of Systems Science and Complexity, 34(5): 2048-2068, 2021.
 6. Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-Feng Zhang, [Consensus of high-order multi-agent systems with binary-valued communications and switching topologies](https://ieeexplore.ieee.org/document/10795218), IEEE Trans. on Control of Network Systems, doi: 10.1109/TCNS.2024.3516582, 2024. (*Corresponding Author)
-7.  Chuiliu Kong, and **Ying Wang**\*, [Adaptive tracking control for non-periodic reference signals under quantized observations](https://www.sciencedirect.com/science/article/pii/S0947358025000238), 	European Journal of Control，82：101195, 2025. (*Corresponding Author)
+7.  Chuiliu Kong, and **Ying Wang**\*, [Adaptive tracking control for non-periodic reference signals under quantized observations](https://www.sciencedirect.com/science/article/pii/S0947358025000238), 	European Journal of Control，82：101195, 2025. 
 8. Jieming Ke, **Ying Wang**, Yanlong Zhao and Ji-Feng Zhang, [Recursive identification of set-valued systems under persistent excitations](https://ieeexplore.ieee.org/abstract/document/10529315), IEEE Trans. on Automatic Control, 69(12): 8204-8219, 2024. (Full paper)
 9. Jian Guo, **Ying Wang**, Yanlong Zhao and Ji-Feng Zhang, [Sparse parameter identification for stochastic systems based on Lγ regularization](https://epubs.siam.org/doi/full/10.1137/23M1599513), SIAM Journal on Control and Optimization, 62 (6): 2884-2909, 2024.
 10. Xiaoyan Zhang, **Ying Wang**, Wenchao Xue and Yanlong Zhao, [Recursive projected filter algorithm with binary-valued observations](https://link.springer.com/article/10.1007/s11424-024-3466-8), Journal of Systems Science and Complexity, 37(5): 1832-1860,2024.
