@@ -12,10 +12,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com.hk/
 
 Preprint
 ======
-1. **Ying Wang**, Jian Guo, Yanlong Zhao and Ji-feng Zhang, [Distributed estimation with quantized measurements and communication over markovian switching topologies](https://arxiv.org/abs/2412.10979),  arXiv:2412.10979, 2024.
+1. **Ying Wang**, Jian Guo, Yanlong Zhao and Ji-Feng Zhang, [Distributed estimation with quantized measurements and communication over markovian switching topologies](https://arxiv.org/abs/2412.10979),  arXiv:2412.10979, 2024.
 2. Tianning Han, **Ying Wang** and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://arxiv.org/abs/2412.05136), arXiv:2412.05136, 2024.
 3. Xingrui Liu, **Ying Wang** and Yanlong Zhao, [A unified recursive identification algorithm with quantized observations based on weighted least-squares type criteria](https://arxiv.org/abs/2502.20085), arXiv:2502.20085, 2025.
-4. Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-feng Zhang, [One-bit consensus of controllable linear multi-agent systems with communication noises](https://arxiv.org/abs/2503.10062), arXiv:2503.10062, 2025. 
+4. Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-Feng Zhang, [One-bit consensus of controllable linear multi-agent systems with communication noises](https://arxiv.org/abs/2503.10062), arXiv:2503.10062, 2025. 
 
 
    
