@@ -27,7 +27,7 @@ Journals
 5. **Ying Wang**, Yanlong Zhao and Ji-Feng Zhang, [Distributed recursive projection identification with binary-valued observations](https://link.springer.com/article/10.1007/s11424-021-1267-x), Journal of Systems Science and Complexity, 34(5): 2048-2068, 2021.
 6. Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-Feng Zhang, [Consensus of high-order multiagent systems with binary-valued communications and switching topologies](https://ieeexplore.ieee.org/document/10795218), IEEE Trans. on Control of Network Systems, 12(2): 1369-1380, 2025. (*Corresponding Author)
 7.  Chuiliu Kong, and **Ying Wang**\*, [Adaptive tracking control for non-periodic reference signals under quantized observations](https://www.sciencedirect.com/science/article/pii/S0947358025000238), 	European Journal of Control，82: 101195, 2025.
-8.  Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-Feng Zhang, [One-bit consensus cntrol of multi-agent systems with packet loss](https://ieeexplore.ieee.org/document/11036330), IEEE Control Systems Letters,  9: 1640-1645, 2025. 
+8.  Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-Feng Zhang, [One-bit consensus control of multi-agent systems with packet loss](https://ieeexplore.ieee.org/document/11036330), IEEE Control Systems Letters,  9: 1640-1645, 2025. 
 9.  Chuiliu Kong, and **Ying Wang**\*, [Adaptive tracking control for ARMA models with quantized observations under non-periodic reference signals](https://sysmath.cjoe.ac.cn/jssc/EN/abstract/abstract55348.shtml), 	Journal of Systems Science and Complexity, to appear, 2025.
 10.  Tianning Han, **Ying Wang** and Yanlong Zhao, [Recursive projection-free identification with binary-valued observations](https://www.sciencedirect.com/science/article/pii/S0167691125001446?ref=pdf_download&fr=RR-2&rr=953c598d8cfafb54), System and Control Letters, 204: 106162, 2025.
 11. Jieming Ke, **Ying Wang**, Yanlong Zhao and Ji-Feng Zhang, [Recursive identification of set-valued systems under persistent excitations](https://ieeexplore.ieee.org/abstract/document/10529315), IEEE Trans. on Automatic Control, 69(12): 8204-8219, 2024. (Full paper)
@@ -40,6 +40,7 @@ Journals
 
 Conferences
 ======
-1. Xiaoyan Zhang, **Ying Wang**, Wenchao Xue and Yanlong Zhao, Recursive filter algorithm for binary-valued systems with uncertain dynamics, Proceeding of 43rd Chinese Control Conference, pp.1262-1267, 2024.
-2. Lifang Wu, **Ying Wang** and Yanlong Zhao, Recursive projection algorithm based on binary-valued observations and a class of random signals, Proceeding of 41rd Chinese Control Conference, pp.515-519, 2022.
-3. **Ying Wang**, and Ji-Feng Zhang, Distributed parameter identification of quantized ARMAX systems, Proceeding of 38rd Chinese Control Conference, pp.1701-1706, 2019.
+1. **Ying Wang**, Yanlong Zhao, Ji-Feng Zhang and Karl Henrik Johansson, Quantized distributed estimation with event-triggered communication and packet loss, Proceeding of the 63rd IEEE Conference on Decision and Control (CDC), to appear, 2025.
+2. Xiaoyan Zhang, **Ying Wang**, Wenchao Xue and Yanlong Zhao, Recursive filter algorithm for binary-valued systems with uncertain dynamics, Proceeding of 43rd Chinese Control Conference, pp.1262-1267, 2024.
+3. Lifang Wu, **Ying Wang** and Yanlong Zhao, Recursive projection algorithm based on binary-valued observations and a class of random signals, Proceeding of 41rd Chinese Control Conference, pp.515-519, 2022.
+4. **Ying Wang**, and Ji-Feng Zhang, Distributed parameter identification of quantized ARMAX systems, Proceeding of 38rd Chinese Control Conference, pp.1701-1706, 2019.
