@@ -23,11 +23,11 @@ Work experience
 * Postdoc Fellow, KTH Royal Institute of Technology, Feb 2024-present
   * Advisor: Karl H. Johansson (Professor, KTH; Fellow of Royal Swedish Academy of Engineering Sciences, IEEE)
 * Postdoc Fellow, AMSS, CAS, Jul 2022 - present
-  * Advisor: Yanlong Zhao (Professor, AMSS)
+  * Advisor: Yanlong Zhao (Professor, AMSS；Fellow of CAA)
   
 Award and honors
 ======
-* The Outstanding Doctoral Dissertation Award of the Chinese Association of Automation (Only 10 recipients per year), Dec 2024
+* The Outstanding Doctoral Dissertation Award of the Chinese Association of Automation (CAA, Only 10 recipients per year), Dec 2024
 * China Postdoctoral Innovation Talent Support Program (Top 1%), Jul 2023
 * Guozhi Xu Postdoctoral Research Award Foundation, Dec 2022
 * Primary Standard Fund of China Postdoctoral Science Foundation (Top 1%), Oct 2022
