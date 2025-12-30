@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 
 ---
-
+* **December 2025**: Online talk on “Parameter identification based on quantized data” presented in the “Meet Tallented Doctor” Event Series, organized by the Chinese Association of Automation (CAA).
 * **November 2024**: Online talk on “A unified identification algorithm based on binary-valued observations with time-varying thresholds” at Nankai University, Tianjing.
 * **July 2023**: “Distributed parameter estimation with quantized measurements and communication over unreliable networks”,in 42nd Chinese Control Conference Control.
 * **Octomber 2022**: Online talk on “Parameter identification based on quantized data” at Shandong Normal University， Jinan. 
