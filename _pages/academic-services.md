@@ -9,6 +9,7 @@ redirect_from:
 
 ## Journal Reviewer
 - IEEE Transactions on Automatic Control (TAC)
+- SIAM Journal on Control and Optimization (SICON)
 - Automatica
 - System & Control Letters (SCL)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
@@ -20,6 +21,7 @@ redirect_from:
 
 ## Conference Reviewer
 - IEEE Conference on Decision and Control (CDC)
+- IFAC World Congress (IFAC)
 - IEEE Chinese Control Conference (CCC)
 - SICE Annual Conference 
 
