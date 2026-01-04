@@ -41,7 +41,7 @@ Journals
 
 Conferences
 ======
-1. **Ying Wang**, Yanlong Zhao, Ji-Feng Zhang and Karl Henrik Johansson, Quantized distributed estimation with event-triggered communication and packet loss, Proceeding of the 64rd IEEE Conference on Decision and Control (CDC), 7740-7745, Rio de Janeiro, Brazil, December 10-12, 2025.
+1. **Ying Wang**, Yanlong Zhao, Ji-Feng Zhang and Karl Henrik Johansson, Quantized distributed estimation with event-triggered communication and packet loss, Proceeding of the 64th IEEE Conference on Decision and Control (CDC), 7740-7745, Rio de Janeiro, Brazil, December 10-12, 2025.
 2. Xiaoyan Zhang, **Ying Wang**, Wenchao Xue and Yanlong Zhao, Recursive filter algorithm for binary-valued systems with uncertain dynamics, Proceeding of 43rd Chinese Control Conference, pp.1262-1267, 2024.
 3. Lifang Wu, **Ying Wang** and Yanlong Zhao, Recursive projection algorithm based on binary-valued observations and a class of random signals, Proceeding of 41rd Chinese Control Conference, pp.515-519, 2022.
 4. **Ying Wang**, and Ji-Feng Zhang, Distributed parameter identification of quantized ARMAX systems, Proceeding of 38rd Chinese Control Conference, pp.1701-1706, 2019.
