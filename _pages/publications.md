@@ -10,11 +10,6 @@ redirect_from:
 You can also find my articles on [Google Scholar](https://scholar.google.com.hk/citations?user=J2bouWoAAAAJ&hl=zh-en). Please drop me an email if you do not have access to any of them.
 
 
-Preprint
-======
-1. Ru An, **Ying Wang**\*, Yanlong Zhao and Ji-Feng Zhang, [One-bit consensus of controllable linear multi-agent systems with communication noises](https://arxiv.org/abs/2503.10062), arXiv:2503.10062, 2025. 
-
-
    
 Journals
 ======
