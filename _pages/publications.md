@@ -39,7 +39,7 @@ Journals
 
 Conferences
 ======
-1.**Ying Wang**, Die Gan, Yanlong Zhao and Karl Henrik Johansson, Distributed estimation of stochastic large models with binary-valued measurements, Proceedings of the 23rd IFAC World Congress, to appear, 2026.
+1. **Ying Wang**, Die Gan, Yanlong Zhao and Karl Henrik Johansson, Distributed estimation of stochastic large models with binary-valued measurements, Proceedings of the 23rd IFAC World Congress, to appear, 2026.
 2. **Ying Wang**, Yanlong Zhao, Ji-Feng Zhang and Karl Henrik Johansson, Quantized distributed estimation with event-triggered communication and packet loss, Proceedings of the 64th IEEE Conference on Decision and Control (CDC), 7740-7745, Rio de Janeiro, Brazil, December 10-12, 2025.
 3. Xiaoyan Zhang, **Ying Wang**, Wenchao Xue and Yanlong Zhao, Recursive filter algorithm for binary-valued systems with uncertain dynamics, Proceedings of 43rd Chinese Control Conference, pp.1262-1267, 2024.
 4. Lifang Wu, **Ying Wang** and Yanlong Zhao, Recursive projection algorithm based on binary-valued observations and a class of random signals, Proceedings of 41st Chinese Control Conference, pp.515-519, 2022.
