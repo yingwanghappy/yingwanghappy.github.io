@@ -11,10 +11,11 @@ redirect_from:
 - IEEE Transactions on Automatic Control (TAC)
 - SIAM Journal on Control and Optimization (SICON)
 - Automatica
-- System & Control Letters (SCL)
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Transactions on Cybernetics(TYCB)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
-- Asian Journal of Control (AJC)
-- Applied Mathematics and Computation (AMC)
+- System & Control Letters (SCL)
+- International Journal of Robust and Nonlinear Control (RNC)
 - Journal of Systems Science & Complexity (JSSC)
 - IEEE Control System Letters (L-CSS)
 
