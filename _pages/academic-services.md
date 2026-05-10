@@ -28,5 +28,5 @@ redirect_from:
 
 
 ## Teaching
-- Autumn 2019, Mathematical analysis exercise lesson, undergraduate course at Univercity of Chinese Academy of Sciences
-- Spring 2020, Mathematical analysis exercise lesson, undergraduate course at University of Chinese Academy of Sciences
+- Autumn 2019, Instructor, Mathematical Analysis Tutorial, undergraduate course, University of Chinese Academy of Sciences
+- Spring 2020, Instructor, Mathematical Analysis Tutorial, undergraduate course, University of Chinese Academy of Sciences
